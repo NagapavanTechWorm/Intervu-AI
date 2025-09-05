@@ -1,0 +1,14 @@
+flask
+flask-cors
+werkzeug
+python-dotenv
+beautifulsoup4
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+langgraph
+huggingface-hub
+sentence-transformers
+faiss-cpu
